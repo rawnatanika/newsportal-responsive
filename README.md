@@ -1,0 +1,2 @@
+# newsportal-responsive
+responsive
